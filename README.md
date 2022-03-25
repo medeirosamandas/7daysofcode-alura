@@ -1,4 +1,4 @@
-# 7 Days Of Code
+# [7 Days Of Code](https://7daysofcode.io/)
 
 <details>
 <summary>Lógica de Programação Javascript</summary>
@@ -103,5 +103,8 @@ E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
 2 > Ahh que pena... Já tentou aprender outras linguagens?
 ```
 
+</details>
+<details>
+<summary>Dia 03 - Variáveis</summary>
 </details>
 </details>
