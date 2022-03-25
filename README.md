@@ -58,10 +58,8 @@ console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 </details>
 
 <details>
-
 <summary>Dia 02 - Variáveis</summary>
 
-</details>
 Sabe quando você se cadastra em um site e, logo em seguida, quando faz o seu login, ele já te chama pelo seu nome? É isso que você vai fazer no desafio de hoje!
 
 Quando você cria algum sistema, site ou aplicativo, é comum querer colocar alguns toques personalizados para tornar a experiência na sua aplicação mais rica e dinâmica.
@@ -105,4 +103,5 @@ E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
 2 > Ahh que pena... Já tentou aprender outras linguagens?
 ```
 
+</details>
 </details>
