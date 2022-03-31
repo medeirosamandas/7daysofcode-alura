@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+:root {
+  --vermelho: #8e2424;
+  --preto: #101828;
+  --cinza-escuro: #3a404e;
+  --cinza-claro: #667085;
+}
+
+header,
+body,
+a,
+ul,
+li,
+div,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+}
+
+header ul li {
+  list-style-type: none;
+  color: var(--cinza-claro);
+}
+
+header ul,
+header div,
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+header div {
+  width: 60%;
+  justify-content: space-between;
+}
+header div ul {
+  width: 60%;
+}
+header ul {
+  width: 20%;
+}
+header {
+  padding: 2rem;
+  justify-content: space-between;
+}
+
+.cadastrar {
+  background-color: var(--vermelho);
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}

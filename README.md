@@ -246,3 +246,17 @@ As opções disponíveis deverão ser: soma, subtração, multiplicação, divis
 
 </details>
 </details>
+
+<details>
+<summary>HTML e CSS</summary>
+<sumamry>Dia 01 - Cabeçalho</summary>
+<details>
+Para isso, te enviaram um layout no Figma. O Figma é um software que muitos designers utilizam para criar protótipos. E a partir desse protótipo que eu vou disponibilizar, você vai transformá-lo em código e dar vida real ao projeto! Beleza?
+
+Não se preocupe, porque você não vai precisar editar nada no Figma ou nem mesmo baixar o aplicativo. Basta [acessar esse link](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1&utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+1%2F7%3A+Cabe%C3%A7alho&utm_campaign=%5BAlura+%237Days+of+Code%5D%28HTML+++CSS%29+Dia+1%3A+Cabe%C3%A7alho) e você já vai conseguir visualizar o layout! Lá, você também poderá visualizar todos os valores para espaçamento, cores do projeto, tamanhos de texto, e muito mais!
+
+Agora que você já abriu o Figma do projeto, você conseguiu ver o que a empresa espera que você entregue ao final dos próximos 7 dias.
+
+Neste primeiro dia, você vai desenvolver o cabeçalho da aplicação, chamado normalmente de Navbar, que contempla o logo, o menu com as páginas e também os dois botões do canto direito, como aqui abaixo:</details>
+
+</details>
